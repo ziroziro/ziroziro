@@ -5,21 +5,21 @@
 </em></p>
 
 <p align="center">
-<br/>
-<a href="https://twitter.com/ziroxziro">
-  <img alt="ziro Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
-</a>
-<a href="https://www.linkedin.com/in/">
-  <img alt="ziro LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
+<a href="https://twitter.com/">
+  <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+<a href="">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 <a href="https://www.instagram.com/dziro.rf">
-  <img alt="ziro Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
-</a>
-<a href="https://open.spotify.com/user/so9pu3ttyx8kyvb57ovdbq0nz?si=2Fie9l1HRDW4hdmi2DgRvQ&utm_source=copy-link">
-  <img alt="ziro Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
-</a>
-<br>
-</p>
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+<a href="https://www.twitter.com/ziroxziro">
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=fflat&logo=twitter&logoColor=white"/>
+  </a>
+  </p>
+
+  ### 💻 &nbsp;Workspace Spec
+![Apple Macbook 2017](https://img.shields.io/badge/Apple-MacBook_Pro_2017-05122A?style=flat&logo=apple&logoColor=88E0EF)&nbsp;
 
 <!-- [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
