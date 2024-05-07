@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&weight=900&size=35&duration=2500&pause=5000&color=8D44F7&center=true&vCenter=true&random=false&width=435&lines=Welcome%2C+Its+about+ZIRO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&weight=900&size=35&duration=2500&pause=5000&color=8D44F7&center=true&vCenter=true&random=false&width=800&lines=Welcome%2C+Its+about+ZIRO)](https://git.io/typing-svg)
 <!--
 **ziroziro/ziroziro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
