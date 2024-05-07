@@ -7,11 +7,11 @@
 </em></p>
 
 <p>
-<a href="https://twitter.com/">
+<a href="https://www.linkedin.com/in/muhammad-dzikri-rofa-986b611a2/">
   <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-<a href="">
+<a href="mailto:dzikrirofa@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-<a href="">
+<a href="https://wa.me/085156840469">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
 <a href="https://www.instagram.com/dziro.rf">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
